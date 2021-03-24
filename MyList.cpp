@@ -1,4 +1,8 @@
 #pragma once
+/*
+By Yevgeniy Sumaryev
+3/20/21
+*/
 #include "MyList.h"
 #include <iostream>
 #include <vector>
