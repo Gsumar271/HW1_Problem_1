@@ -1,5 +1,9 @@
 # HW1_Problem_1
 HW1__Problem_1
+/*
+By Yevgeniy Sumaryev
+3/20/21
+*/
 
 In this problem we had to create a custom vector class and a custom linked list class, and then time insertion times for each of the classes.
 I tried to use all the conventional methods in vector and list class such as insert(), erase(), pop_back() and push_back(), along with constructors, for copy and move, a destructor and operator overloads. 
