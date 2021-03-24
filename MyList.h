@@ -1,5 +1,9 @@
 #pragma once
 /*
+By Yevgeniy Sumaryev
+3/20/21
+*/
+/*
 In this template list class I included both node class
 and list class in the same file to make it easier to read
 and also an iterator class which had access to all the variables 
