@@ -1,3 +1,7 @@
+/*
+By Yevgeniy Sumaryev
+3/20/21
+*/
 #include <iostream>
 #include <vector>
 #include <string>
