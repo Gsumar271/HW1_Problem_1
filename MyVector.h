@@ -1,5 +1,9 @@
 #pragma once
 /*
+By Yevgeniy Sumaryev
+3/20/21
+*/
+/*
 This is a header file for custom template vector class meant to 
 perform all the main functions of the standard
 vector class. This vector uses array that can dynamically grow
